@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "44319326211",
+    "project_id": "vanderhoofpracticum-2f1c3",
+    "storage_bucket": "vanderhoofpracticum-2f1c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44319326211:android:54112166b14e3045310e36",
+        "android_client_info": {
+          "package_name": "com.example.vanderhoof_manager_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44319326211-4cjcikupolov05pdnfhpvo5kf725ohjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPpM2Rmpj0C6neJiWQoNurZ54I7QwN58E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44319326211-4cjcikupolov05pdnfhpvo5kf725ohjr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44319326211-0rds6sqs2p635ctph3g6esum4oc05usu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vanderhoof.vanderhoofApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44319326211:android:c372c6fcb19c29f4310e36",
+        "android_client_info": {
+          "package_name": "com.vanderhoof.vanderhoof_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44319326211-4cjcikupolov05pdnfhpvo5kf725ohjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPpM2Rmpj0C6neJiWQoNurZ54I7QwN58E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44319326211-4cjcikupolov05pdnfhpvo5kf725ohjr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44319326211-0rds6sqs2p635ctph3g6esum4oc05usu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vanderhoof.vanderhoofApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
